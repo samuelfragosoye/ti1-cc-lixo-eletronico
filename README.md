@@ -9,7 +9,6 @@ Além da parte educativa, o site terá a função de indicar pontos de coleta de
 * Arthur Lucas Ramos Monteiro
 * Bernardo Augusto Germer Vicente
 * Kaique Ribeiro Rezende
-* Lucas Gabriel de Oliveira
 * Sabrina Siqueira dos Santos
 * Samuel Teodoro Albuquerque Fragoso
 
